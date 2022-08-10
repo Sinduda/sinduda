@@ -17,9 +17,9 @@ Hope you're enjoying your visit! 😊 <br/>
 <br/>
 
 
-🛠️ Stacks
-> Language: Python, MySQL <br/>
-> Other Tools: Visual Studio Code, Notion, Slack etc..
+🛠️ Stacks<br/><br/>
+Language: Python, MySQL <br/>
+Other Tools: Visual Studio Code, Notion, Slack etc..
 
 <br/><br/>
 
