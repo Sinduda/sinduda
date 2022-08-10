@@ -3,7 +3,7 @@
 <div align = "center">
 
 <br/>
-<h3>Hi Evevryone 👋</h3><br/>
+<h3>Hi Everyone 👋</h3><br/>
 Thanks for visiting. I'm Inhwan.<br/>
 My dream is to make a positive impact in the world.<br/>
 <br/>
