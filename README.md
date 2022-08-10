@@ -1,16 +1,26 @@
-### Hi there 👋
+## 
 
-<!--
-**Sinduda/sinduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
 
-Here are some ideas to get you started:
+<br/>
+<h3>Hi Evevryone 👋</h3><br/>
+Thanks for visiting. I'm Inhwan.<br/>
+My dream is to make a positive impact in the world.<br/>
+<br/>
+Now I'm looking for ways in DATA SCIENCE.<br/>
+<br/>
+Hope you're enjoying your visit! 😊 <br/>
+<br/>
+﹏﹏﹏﹏﹏﹏﹏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+🛠️ Stacks
+> Language: Python, MySQL <br/>
+> Other Tools: Visual Studio Code, Notion, Slack etc..
+
+<br/><br/>
+
+</div>
